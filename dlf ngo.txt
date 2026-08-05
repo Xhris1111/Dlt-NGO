@@ -1,0 +1,48 @@
+Hi! My name is david ekene and I own a business called "David Life Touching Foundation". I'm building my own website and I need your help creating it. Please make it a single index.html file.
+
+Here are my business details:
+- Business name: David Life Touching Foundation
+- My services: Non profit organization
+- About my business: This is a Non profit organization, mission-driven organization dedicated to improving the well being o the society by positively impacting lives. it focuses on providing accessible healthcare, enhancing educational opportunities and supporting the welfare of vulnerable communities. Through outreach programs, partnerships and sustainable initiatives, it aims to create lasting social change and empower individuals for a better future.
+- My phone number: 09026740493
+- My email: chrisokolie007@gmail.com
+- My location / service area: No72 Christ church road, Owerri Imo state.
+- Colors I want: green and white. Elegant, bright and happy
+
+I'd like these pages: Home, About, partnership, contact.
+
+Here's what I need:
+- Build the ENTIRE website in a single index.html file with all CSS in a <style> tag and all JavaScript in a <script> tag
+- Use a green and white. Elegant, bright and happy color palette with a modern, professional design
+- Make it fully responsive — must look great on mobile, tablet, and desktop
+- clean and professional design.
+- impact programs each with photos.
+  mbano orphanage outreach
+  David life touching foundation (dlt foundation) isiala mbano secondary school quiz competition.
+  dtl widow outreach.
+  dlt intra-school quiz competition
+  dtl football tournament
+- high quality content.
+- benefactor's testimonials
+- our impacts so far; build a responsive impact animated stats; 105 widows supported, 210 students scholarships, 35 laptop/computer donated to 15 rural schools , 60+ young footballers empowered, 100+ orphanage homes visits. it should be neatly designed and responsive.
+- about: this ngo was registered on the 30th June 2020, with cac/it/no 147769. add its mission and vision.
+- Create a multi-page experience using JavaScript: each page (Home, About, partnership, contact) should be its own <section> that gets shown/hidden when the user clicks a nav link — only one page should be visible at a time
+- The navigation bar must be sticky at the top, with links for every page, and the active page link should be visually highlighted. it should also have a donate button, red color with a heart image in it. it should have a slick effect when hovered around.
+- When a nav link is clicked, hide the current page and show the new one instantly — no page reload
+- Wrap history.pushState in a try/catch so the site works in any environment — when pushState works (on a real server), update the URL to clean paths like /about, /services, /contact. When it fails (local file or preview), just show/hide the pages without updating the URL. Also listen for the popstate event so the browser back/forward buttons work when pushState is available
+- On page load, try reading window.location.pathname and show the matching page if possible (so direct links like yoursite.com/about work with the .htaccess routing). If pathname isn't available, just show the Home page by default
+- contact should have goggle map integration.
+- partnerships; monetary , volunteering and sponsorships. partners; national human rights commission, achinulo medical center, SODAPP technologies global limited. all partners must have their logos.
+- Add a professional footer that is always visible with contact info and copyright. it should have a newsletter form.
+- Use Google Fonts for clean, professional typography (import via <link> in the <head>)
+- Add hover effects on buttons and links, and subtle CSS animations
+- The Home page must have a hero section with a headline, a short description of the business, and a call-to-action button(donate button)
+- Use photos image from Unsplash using a direct URL like https://images.unsplash.com/photo-XXXXX?w=1200&fit=crop — pick a real Unsplash photo ID that matches the business industry. keep clean
+- Write clean, well-organized, commented code
+- The design should look like it was built by a professional web designer — not a generic template
+- Be creative with layout, spacing, and visual hierarchy to make it stand out
+- all pages should have the cta button
+
+all information added should be properly and neatly used to build the whole web page; home about partnership and contact
+Please i need one of the best jobs you have ever done.
+Please give me just the complete HTML code so I can copy and paste it into my hosting. Thank you!
